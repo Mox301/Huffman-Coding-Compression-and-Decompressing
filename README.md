@@ -37,7 +37,7 @@ The HuffmanCode program uses the following steps to compress a file:
 To decompress a file, the program reads the binary tree and codes from the compressed file, and uses them to reconstruct the original data.
 
 ## Screenshots
-![HuffmanCode Running](https://user-images.githubusercontent.com/88712877/218340850-213748ed-21e6-4370-8d2d-c67626a1790e.png)
+![HuffmanCode Running](https://user-images.githubusercontent.com/88712877/218340850-213748ed-21e6-4370-8d2d-c67626a1790e.png)  
 HuffmanCode Running
 
 ![HuffmanCode Result](https://user-images.githubusercontent.com/88712877/218340851-c319c801-0177-40cd-a325-911afab2b347.png)
