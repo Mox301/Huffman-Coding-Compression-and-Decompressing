@@ -5,7 +5,9 @@ HuffmanCode is a Java program that can be used to compress and decompress files 
 Java 8 or later
 
 ## Usage
-The program can be run from the command line. To compress a file, use the following command:
+The program can be run from the command line. 
+
+To compress a file, use the following command:
 
 java HuffmanCode compress [input_file_path] [output_file_path]
 
@@ -27,3 +29,8 @@ The HuffmanCode program uses the following steps to compress a file:
 4- Write the codes and the binary tree to the output file.
 
 To decompress a file, the program reads the binary tree and codes from the compressed file, and uses them to reconstruct the original data.
+
+## Screenshots
+![HuffmanCode Running](https://photos.app.goo.gl/PB2XgVEW2qDL3qYL9)
+
+
