@@ -5,9 +5,9 @@ HuffmanCode is a Java program that can be used to compress and decompress files 
 Java Development Kit (JDK) version 8 or higher and basic knowledge of Java programming.
 
 ## Usage
-The program can be executed from the command line or an integrated development environment (IDE) such as Eclipse or NetBeans. Follow these steps to run the program:
+The program can be executed from the command line or an integrated development environment (IDE) such as IntelliJ, Eclipse, or NetBeans. Follow these steps to run the program:
 
-1 - Open the command prompt or terminal.  
+1- Open the command prompt or terminal.  
 2- Navigate to the directory where the program files are stored.  
 3- Compile the program by entering "javac HuffmanCode.java" in the command prompt or terminal.  
 4- Run the program by entering "java HuffmanCode" in the command prompt or terminal.  
